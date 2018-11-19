@@ -1,7 +1,7 @@
 # img2webp-mac-automator
 mac 下的序列帧转 webp 服务  
 
-<img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/webp/shuoming.png" width="100%" />
+<img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/webp/shuoming.png" width="50%" />
 
 # 安装  
 下载[安装镜像](https://raw.githubusercontent.com/bigxixi/img2webp-mac-automator/master/%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BA%8F%E5%88%97%E5%B8%A7%E8%BD%AC%20webp%20%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F.dmg)，根据提示安装。  
