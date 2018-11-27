@@ -1,3 +1,8 @@
+# 项目已合并到 
+# https://github.com/bigxixi/img2webp-and-apng-mac-automator
+
+————以下仅供存档——————  
+
 # img2webp-mac-automator
 Mac 下的序列帧转 webp 服务。  
 使用了 Google [官方的转换程序](https://developers.google.com/speed/webp/docs/img2webp)，用 Automator 加了个壳。  
